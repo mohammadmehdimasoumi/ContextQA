@@ -1,0 +1,8 @@
+# NOTE (Windows + NVIDIA GPU): install PyTorch FIRST with CUDA support, see README.
+torch>=2.2
+transformers>=4.44
+datasets>=2.20
+evaluate>=0.4.2
+numpy>=1.26
+gradio>=4.40
+pytest>=8.0

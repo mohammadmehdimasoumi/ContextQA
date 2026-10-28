@@ -1,0 +1,18 @@
+[
+  {
+    "context": "Python was created by Guido van Rossum and was first released in 1991. It emphasizes code readability and supports multiple programming paradigms.",
+    "questions": [
+      "Who created Python?",
+      "When was Python first released?",
+      "What is the capital of France?"
+    ]
+  },
+  {
+    "context": "The Transformer architecture was introduced in the 2017 paper 'Attention Is All You Need'. It relies on self-attention instead of recurrence, which allows much more parallel training.",
+    "questions": [
+      "When was the Transformer introduced?",
+      "What does the Transformer rely on instead of recurrence?",
+      "Who won the 2018 World Cup?"
+    ]
+  }
+]
